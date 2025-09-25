@@ -1,5 +1,3 @@
-package BackTracking;
-
 public class findSubsets {
     public static void findSubset(String str,String ans,int i){
     //   base case

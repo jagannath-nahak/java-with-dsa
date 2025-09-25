@@ -1,5 +1,3 @@
-package BackTracking;
-
 public class backtrackonarray {
     public static void changeArray(int arr[],int i,int val){
         // base case

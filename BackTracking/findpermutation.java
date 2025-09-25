@@ -1,5 +1,3 @@
-package BackTracking;
-
 public class findpermutation {
     public static void find(String str,String ans){
         // base case
